@@ -11,3 +11,10 @@ Currently the first little project is just a cli todo application for me to lear
 ## WHY LEARN GO?
 
 Honestly, it's my own curiosity... I've heard it's a fun language to learn and use, and being a compiled language created with the intention of being a kind of bridge between low-level langs like C++ and the easy to understand languages like Python. Also hoping to dive deeper into topics like concurrency, multithreading, etc.
+
+## Future Objectives / Learning Goals
+- Want to learn more in-depth backend web development with Go (i am getting tired of using javascript)
+  - learn how to implement APIs with Go
+- Build some CLI applications
+- Learn about threading / concurrency with Go
+- More ???
