@@ -15,9 +15,11 @@ Simple todo cli application to get familiar with GoLang
 
 **POKEDEX CLI**
 Similar to pokefetch. Used claude to do a lot of the rendering of non-pokemon-colorscript supported sprites.
--- Fetches info from PokeAPI, sprites from Pokemon-Colorscripts
--- If we don't get a 200 stat code from the pokemon-colorscripts repo, we fallback to rendering a pokeapi-provided sprite ourself
--- Prints the info on the righthand side of the sprite in a very pokefetch like fashion
+- Fetches info from PokeAPI, sprites from Pokemon-Colorscripts
+- If we don't get a 200 stat code from the pokemon-colorscripts repo, we fallback to rendering a pokeapi-provided sprite ourselves
+- Prints the info on the righthand side of the sprite in a very pokefetch like fashion
+- shiny flag option available
+- PROBABLY going to implement some option to do only the sprite
 
 
 ## WHY LEARN GO?
