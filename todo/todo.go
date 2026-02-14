@@ -1,4 +1,4 @@
-package main
+package dex
 
 import (
 	"encoding/json"
@@ -13,7 +13,7 @@ type Task struct {
 	Done bool   `json:"done"`
 }
 
-func main() {
+func dex() {
 	if len(os.Args) < 2 {
 		fmt.Println("Usage: todo <command> [args]")
 		return
